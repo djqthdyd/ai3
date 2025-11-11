@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
  
      labels[0]: {
        "texts": ["볶음밥은 밥을 볶아 만든것 입니다."],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://semie.cooking/image/contents/recipe/ug/sa/ppsjbion/121446617xbjv.jpg"],
        "videos": ["https://youtube.com/shorts/E7zAxMCmTwc?si=i9BBVoq_3xCb89da"]
      },
 }
